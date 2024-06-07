@@ -23,3 +23,6 @@ Your well-being is our top priority.
 # Get Involved
 Join Inner Calm Connect today and take a step towards prioritizing mental health.
 Whether you're here to learn, share, or seek support, you're welcome in our community.
+
+# Copyright
+Faizan Khan
